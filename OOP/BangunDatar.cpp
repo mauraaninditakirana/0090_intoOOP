@@ -27,3 +27,6 @@ class bangunDatar{
         }
 
 };
+int main(){
+    
+}
