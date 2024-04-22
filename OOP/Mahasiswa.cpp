@@ -20,7 +20,12 @@ class Matakuliah{
         int sks;
     public:
         void input(){
-            
+           cout << "Kode Mk: ";
+           cin >> kodeMk;
+           cout << "Nama Mk: ";
+           cin >> namaMk;
+           cout << "SKS: ";
+           cin >> sks; 
         }
 
 };
